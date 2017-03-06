@@ -1,4 +1,4 @@
-# FP3 - Team Declaration
+# FP2 - Team Declaration
 
 **TL;DR**
 
@@ -31,7 +31,7 @@ When posting on the list, be sure to include:
 
 * The normal team size is 2.
 * Teams of 3 are allowed only when you have a strong case that your team needs three people to accomplish its idea. All three members must be doing well in the course. Please contact your instructor for guidance.
-* Working solo will be an extraordinary exception. Please don't come to us with a request that boils down to "I really don't want to." Reasons like "I have a complicated schedule" are not applicable. 
+* Working solo will be an extraordinary exception. Please don't come to me with a request that boils down to "I really don't want to." Reasons like "I have a complicated schedule" are not applicable. 
 
 You should know that being able to accomplish software projects in a team is how the world works. If you don't have experience doing this yet, it's even more valuable that you begin to learn now.
 
