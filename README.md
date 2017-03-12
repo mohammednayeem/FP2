@@ -4,14 +4,13 @@
 
 You must do either:
 
-1. make a pull request against this repo describing your team (per below), or
+1. fill out this [team declaration form] (https://goo.gl/forms/nSghRMlfpPzPVsi63)
 2. fill out this [partner request form](https://goo.gl/forms/14dfW91t6hLAE2yn1)
 
-**I have a team**
+## I have a team 
 
-Once you have your team figured out, **one of you makes a single pull request** for your whole team describing:
+Once you have your team figured out, one of you fills out this **[team declaration form](https://goo.gl/forms/nSghRMlfpPzPVsi63)** for your whole team describing:
 * who's on it (using github usernames and real names)
-* a team name (for use in creating the group on github. Short and sweet.)
 * a project title (10 words or fewer, can be changed later)
 * a basic project concept
 * what libraries you plan on using, as a group
@@ -49,7 +48,17 @@ Make sure that each of you has an interesting, important, and fun part of the pr
 
 Yes, this is an additional consideration as you determine the scope of your project. But it is one that will add value.
 
-**I don't have a team**
+**Additional instructions for teams of three**
 
-If you don't have a partner, you must fill out this [partner request form](https://goo.gl/forms/14dfW91t6hLAE2yn1)
+Remember that you must have prior written permission to work in groups of three.
+
+The team must nominate a lead. This person is primarily responsible for code integration. This work may be shared, but the team lead has default responsibility.
+
+The team lead has full partner implementation responsibilities also.
+
+You must identify who is team lead.
+
+## I don't have a team
+
+If you don't have a partner, please fill out this [partner request form](https://goo.gl/forms/14dfW91t6hLAE2yn1).
 
