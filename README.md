@@ -4,7 +4,7 @@
 
 You must do either:
 
-1. fill out this [team declaration form] (https://goo.gl/forms/nSghRMlfpPzPVsi63)
+1. fill out this [team declaration form](https://goo.gl/forms/nSghRMlfpPzPVsi63)
 2. fill out this [partner request form](https://goo.gl/forms/14dfW91t6hLAE2yn1)
 
 ## I have a team 
