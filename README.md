@@ -48,9 +48,11 @@ Make sure that each of you has an interesting, important, and fun part of the pr
 
 Yes, this is an additional consideration as you determine the scope of your project. But it is one that will add value.
 
-**Additional instructions for teams of three**
+## I want a team of three
 
 Remember that you must have prior written permission to work in groups of three.
+
+When requesting permission, the three of you should have met (virtually is OK) and all discussed the idea together. When emailing me about your team and your idea, you must CC your other team members in the request email. All three of you should have viewed and discussed the email before one of you sends it.
 
 The team must nominate a lead. This person is primarily responsible for code integration. This work may be shared, but the team lead has default responsibility.
 
